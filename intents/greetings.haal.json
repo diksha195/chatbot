@@ -1,0 +1,14 @@
+{
+    "questions": [
+        "how are you?",
+        "what is your name?",
+        "what is this subject?",
+        "what is this subject code?"
+    ],
+    "answers": [
+        "fine! thank you",
+        "Diksha",
+        "nodejs",
+        "INT 222"
+    ]
+}
